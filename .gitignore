@@ -4,4 +4,4 @@ pyvenv.cfg
 Dockerfile
 bin/
 lib/
-__pychache__/
+**__pychache__**
